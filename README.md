@@ -15,4 +15,4 @@ The repository contains:
 
 
 
-N.B. One on the example signals used in the report was a simulation of a Massive Black Hole Binary Merger. This simulation was obtained using programs developed by the LISA team, access to which was kindly provided by my supervisor, and which are confidential in nature and have therefore not been included.
+N.B. One on the example signals used in the report was a simulation of a Massive Black Hole Binary Merger. This simulation was obtained using programs developed by the LISA team, access to which was kindly provided by my supervisor, and, being confidential in nature, have not been included here.
